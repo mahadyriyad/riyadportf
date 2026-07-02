@@ -1,0 +1,6 @@
+{
+  "name": "my portfolio",
+  "description": "A high-end, immersive developer portfolio featuring 3D effects, glassmorphism, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
